@@ -2,10 +2,11 @@
 
 
 ## Button LED
-Add a short description of what the assignemt was, what you did, and any tips to give the reader,
-so they have an easier time of it.
+Only one button one led more simple than the two button two led.
 
 ## Two Button Two LED
+Code for the arduino circuit board to trigger leds with buttons 
 
 
 ## Two Button Servo
+A fritzing arduindo circuit and breadboard
